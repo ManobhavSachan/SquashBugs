@@ -1,4 +1,4 @@
-# Squash Bug Website
+# Squash Bugs Website
 Our team has built a web application that tracks bugs in software by prioritizing and assigning them to team members. The website allows users to login and manage bugs in their software, including adding, removing, and resolving bugs. I used react app to create our website and mongo database with chakra ui for back end part.
 
 ## Features
