@@ -1,0 +1,6 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  background-color: white;
+  background-size: cover;
+}
